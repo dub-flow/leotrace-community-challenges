@@ -23,3 +23,7 @@ Please create a pull request with the following:
 - Update `./README.md`:
   - Go to the [Index](#index)
   - Append your challenge: `X. <Vulnerability name> (Challenge created by [@you](<link-to-your-github>))`
+
+## Questions?
+
+Feel free to reach out to me via my LinkedIn: https://www.linkedin.com/in/florian-ethical-hacker/
