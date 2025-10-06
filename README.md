@@ -12,24 +12,6 @@ Thank you so much! ❤️
 
 Please create a pull request with the following:
 
-- Create a new folder `challenge-XX` (where `XX` refers to the next challenge)
-    - For example, if the latest challenge was `challenge-03`, create a folder `challgenge-04`
-- Within the folder, provide:
-    - The vulnerable source code
-    - Instructions on:
-        - How to run the app (ideally 1-2 commands, consider dockerizing the app, and leveraging `docker-compose up`)
-        - How to hack the app
-        - How to fix the code to secure the app
-- Update the `./README.md`:
-    - Go to the [Index](#index)
-    - Append your challenge: `X. <Vulnerability name> (Challenge created by [@you](<link-to-your-github>))`
-
-    # Want to Contribute?
-
-Thank you so much! ❤️
-
-Please create a pull request with the following:
-
 - Create a new folder `challenge-XX` (where `XX` is the next challenge)
   - For example, if the latest challenge was `challenge-03`, create `challenge-04`
 - Inside that folder include:
